@@ -58,11 +58,11 @@ Click on this link for using the website
 
 ## Tech Stack
 
-Frontend: React js, 
+*Frontend:* React js, 
 
-backend: Node js, Express js , 
+*backend:* Node js, Express js , 
 
-database: Mongodb
+*database:* Mongodb
 
 This is a MERN stack project  
 
@@ -87,27 +87,27 @@ https://ruby-puzzled-kitten.cyclic.app/api
 #### Booking
 get  the booking
 
-http
+```http
   GET /booking
-
+```
 Returns a list of last booking stored in the database in JSON format.
 
-http
+```http
   post /booking
-
+```
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
-| `movie` | `string` | *Required*. your selected movie |
-| `slots ` | `string` | *Required*. your selected time|
-| `Seats ` | `number` | *Required*. no of seats you have seleacted|
+| `movie` | `string` | **Required**. your selected movie |
+| `slots ` | `string` | **Required**. your selected time|
+| `Seats ` | `number` | **Required**. no of seats you have seleacted|
 
 Returns the newly created booking in JSON format
 
 
 ## Support
 
-For support, *email*
+For support, **email**
 - tusharsonavane21@gmail.com
 
 
