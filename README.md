@@ -82,7 +82,7 @@ Note : your mongodb clustur connect key
 ## API Documentation
 
 #### Base URL
-https://ruby-puzzled-kitten.cyclic.app/api
+https://ruby-puzzled-kitten.cyclic.app/api/booking
 
 #### Booking
 get  the booking
